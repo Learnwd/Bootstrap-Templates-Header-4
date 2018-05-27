@@ -1,0 +1,76 @@
+.header-block-4 {
+    background: #334ee2;
+    background-size: cover;
+    background-position: center;
+    padding: 140px 0 0 0;
+    color: #ffffff;
+    font-family: 'Nunito', sans-serif;
+   
+}
+
+    .btn {
+    background: #ffffff;
+    color: #334ee2;
+    padding: 20px 60px;
+    border-radius: 30px;
+    -moz-border-radius: 30px;
+    -webkit-border-radius: 30px;
+    min-width: 150px;
+    margin-bottom: 1.2em;
+    font-weight: 700;
+}
+
+
+/* Text */
+
+.header-block-4 h1 {
+    font-size: 2.75rem;
+    font-weight: 300;
+    margin-bottom: 0.4em;
+    line-height: 1.4;
+ 
+    
+}
+
+.header-block-4 h2 {
+    font-size: 1.25rem;
+    font-weight: 300;
+    color: #f1f1f1;
+    margin-bottom: 2.75em;
+    line-height: 1.4;
+}
+
+.header-block-4 h3 {
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin-bottom: 0.8em;
+    line-height: 1.4;
+}
+
+.header-block-4 p {
+    font-size: 0.9rem;
+    font-weight: 300;
+    color: #ffffff;
+    margin-bottom: 3em;
+    line-height: 1.4;
+}
+
+.header-block-4 .fa {
+    font-size: 2.25rem;
+    margin-bottom: 0.8em;
+}
+
+@media (max-width: 768px) {
+    .header-block-4 h1 {
+    font-size: 2.25rem;
+}
+
+.header-block-4 h2 {
+    font-size: 1.05rem;
+    margin-bottom: 2em;
+}
+
+}
+
+
+
